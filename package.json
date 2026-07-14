@@ -1,0 +1,14 @@
+{
+  "name": "saucedemo-e2e",
+  "version": "1.0.0",
+  "description": "E2E тести для saucedemo.com на Playwright з патерном Page Object Model",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0"
+  }
+}
