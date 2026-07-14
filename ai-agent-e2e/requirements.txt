@@ -1,0 +1,6 @@
+browser-use==0.1.40
+playwright==1.51.0
+
+langchain-groq==0.2.1
+
+python-dotenv==1.1.0
